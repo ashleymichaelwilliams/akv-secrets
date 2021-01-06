@@ -1,0 +1,8 @@
+config:
+  subscription_id: {{subscription-id}}
+  tenant_id: {{tenant-id}}
+  resource_group: {{resource-group}}
+
+userinfo
+  username: "root"
+  userpass: {{user-password}}
